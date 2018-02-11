@@ -1584,6 +1584,9 @@ body {
  .c-virtual_list__item--focus:focus .c-message_list__focus_indicator {
      box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8);
 }
+.p-message_pane__foreword__description {
+  color: #E6E6E6;
+}
  ts-message {
      color: #959FB5;
 }
