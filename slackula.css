@@ -449,8 +449,8 @@ body {
 }
  .btn_outline {
      background: #21232D;
-     border-color: #9B9FB5 !important;
-     color: #9B9FB5 !important;
+     border-color: #393C4D !important;
+     color: #393C4D !important;
 }
  /* .btn_outline::after {
      border: 1px solid #181920;
@@ -474,16 +474,16 @@ body {
      color: #F6F1E9 !important;
 }
  .btn_outline:active {
-     color: #c7c7c7;
+     color: #393C4D;
 }
  .btn_outline.active {
-     color: #c7c7c7 !important;
+     color: #393C4D !important;
 }
  .btn_link {
      color: #21232D;
 }
  .btn_link:hover, .btn_link:focus {
-     color: #c7c7c7;
+     color: #E6E6E6;
 }
  .btn-group.open .btn.dropdown-toggle {
      background-color: #1B1C24;
