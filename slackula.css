@@ -449,13 +449,12 @@ body {
 }
  .btn_outline {
      background: #21232D;
-     border-color: #393C4D !important;
      color: #393C4D !important;
 }
- /* .btn_outline::after {
-     border: 1px solid #181920;
+.btn_outline::after {
+     border: 1px solid #393C4D;
 }
- .btn_outline.btn_transparent {
+/* .btn_outline.btn_transparent {
      color: rgba(84, 84, 84, 0.9) !important;
 }
  .btn_outline.btn_transparent::after {
