@@ -19,7 +19,7 @@ body {
      color: #c7c7c7;
 }
  hr {
-     border-bottom: 1px solid #424242;
+     border-bottom: 1px solid #181920;
      border-top: 1px solid #21232D;
 }
  h1, h2, h3, h4 {
@@ -85,7 +85,7 @@ body {
      background: none !important;
 }
  .monkey_scroll_bar {
-     background: #424242;
+     background: #181920;
 }
  .monkey_scroll_handle_inner {
      background: #1B1C24;
@@ -95,14 +95,14 @@ body {
      background: transparent;
 }
  #client-ui .monkey_scroll_bar {
-     background: #424242;
+     background: #181920;
 }
  #client-ui .monkey_scroll_handle_inner {
      background: #1B1C24;
      border: 3px solid #21232D;
 }
  .c-scrollbar--monkey .c-scrollbar__track {
-     background: #424242;
+     background: #181920;
 }
  .c-scrollbar--monkey .c-scrollbar__bar {
      background: #1B1C24;
@@ -299,7 +299,7 @@ body {
      box-shadow: 0 0 7px rgba(130, 130, 130, 0.15);
 }
  input:disabled, input:disabled:active, select:disabled, textarea:disabled {
-     border-color: #424242 !important;
+     border-color: #181920 !important;
 }
  .no_touch input:hover, .no_touch select:hover, .no_touch textarea:hover {
      border-color: #181920;
@@ -320,7 +320,7 @@ body {
      color: #21232D;
 }
  .uneditable-input, .uneditable-textarea {
-     background-color: #424242;
+     background-color: #181920;
      border: 1px solid #000;
      color: #e6e6e6;
 }
@@ -379,7 +379,7 @@ body {
      background-color: #1B1C24 !important;
 }
  .form-actions {
-     background-color: #424242;
+     background-color: #181920;
      border-top: 1px solid #181920;
 }
  .help-block, .help-inline {
@@ -400,7 +400,7 @@ body {
      color: #e6e6e6;
 }
  .btn.btn_border {
-     border: 2px solid #424242;
+     border: 2px solid #181920;
 }
  .btn.disabled, .btn:disabled {
      background-color: #000 !important;
@@ -418,11 +418,11 @@ body {
      color: #bf360c !important;
 }
  .btn.btn_outline.disabled {
-     background: #424242 !important;
+     background: #181920 !important;
      color: #21232D !important;
 }
  .btn.btn_outline.disabled:hover {
-     background: #424242 !important;
+     background: #181920 !important;
      color: #21232D !important;
 }
  .btn.btn_attachment {
@@ -452,7 +452,7 @@ body {
      color: #21232D !important;
 }
  .btn_outline::after {
-     border: 1px solid #424242;
+     border: 1px solid #181920;
 }
  .btn_outline.btn_transparent {
      color: rgba(84, 84, 84, 0.9) !important;
@@ -487,7 +487,7 @@ body {
      background-color: #1B1C24;
 }
  .btn-group.open .btn-primary.dropdown-toggle {
-     background-color: #424242;
+     background-color: #181920;
 }
  .btn-group > .btn + .dropdown-toggle {
      box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.125), inset 0 1px 0 rgba(0, 0, 0, 0.2), 0 1px 2px rgba(255, 255, 255, 0.05);
@@ -587,7 +587,7 @@ body {
      background-color: #181920 !important;
 }
  #message_edit_form.offline #primary_file_button {
-     border-color: #424242;
+     border-color: #181920;
      color: #21232D;
 }
  #msg_form.focus #msg_input, #msg_form.focus #primary_file_button:not(:hover):not(.active) {
@@ -595,7 +595,7 @@ body {
 }
  #msg_form #msg_input {
      background: padding-box #1B1C24;
-     border-color: #424242;
+     border-color: #181920;
      border-left: 0;
      color: #e6e6e6;
 }
@@ -610,7 +610,7 @@ body {
 }
  #msg_input {
      background: #1B1C24;
-     border-color: #424242;
+     border-color: #181920;
      color: #e6e6e6;
 }
  #msg_input::-webkit-input-placeholder {
@@ -639,10 +639,10 @@ body {
      border-color: #181920;
 }
  #msg_input + #primary_file_button:not(:hover):not(.active) {
-     border-color: #424242;
+     border-color: #181920;
 }
  #msg_input + #primary_file_button.focus-ring:not(:hover):not(.active) {
-     border-color: #424242;
+     border-color: #181920;
 }
  #msg_input.offline:not(.pretend-to-be-online) {
      background-color: #181920 !important;
@@ -659,11 +659,11 @@ body {
 }
  #primary_file_button {
      background: padding-box #1B1C24;
-     border-color: #424242;
+     border-color: #181920;
      color: #21232D;
 }
  #primary_file_button.active, #primary_file_button.focus-ring, #primary_file_button:focus, #primary_file_button:hover {
-     background: #424242;
+     background: #181920;
      border-color: #181920;
      color: #e6e6e6;
 }
@@ -770,7 +770,7 @@ body {
      background: #21232D;
 }
  .menu .menu_filter_container input.menu_filter {
-     border: 1px solid #424242;
+     border: 1px solid #181920;
 }
  .menu .menu_filter_container input.menu_filter:focus {
      border-color: #1B1C24;
@@ -1579,7 +1579,7 @@ body {
      color: #21232D;
 }
  .c-message_list .c-scrollbar__bar {
-     background: #424242;
+     background: #181920;
 }
  .c-virtual_list__item--focus:focus .c-message_list__focus_indicator {
      box-shadow: inset 0 0 0 3px rgba(130, 130, 130, 0.8);
@@ -3662,7 +3662,7 @@ body {
      color: #21232D;
 }
  #disabled_members_tab a:hover {
-     background: #424242;
+     background: #181920;
      color: #c7c7c7;
 }
  #disabled_members_tab.active a {
@@ -3848,7 +3848,7 @@ body {
      background: #21232D;
 }
  .p-emoji_picker__group_tabs {
-     border-bottom-color: #424242;
+     border-bottom-color: #181920;
 }
  .p-emoji_picker__group_tab {
      color: #21232D;
@@ -3859,7 +3859,7 @@ body {
 }
  .p-emoji_picker__group_tab--active {
      background: #1B1C24;
-     border-bottom-color: #424242;
+     border-bottom-color: #181920;
      color: #e6e6e6;
 }
  .p-emoji_picker__icon_search {
@@ -3925,7 +3925,7 @@ body {
      border: 1px solid #1B1C24;
 }
  .rxn.active, .rxn:hover {
-     border-color: #424242;
+     border-color: #181920;
 }
  .rxn.active .emoji_rxn_count, .rxn:hover .emoji_rxn_count {
      color: #e6e6e6;
@@ -4387,7 +4387,7 @@ body {
      border: 1px solid #181920;
 }
  #fs_modal.prefs_modal #prefs_sidebar #prefs_themes_customize .colpick {
-     background: #424242;
+     background: #181920;
      border: 1px solid #181920;
 }
  #fs_modal.prefs_modal #prefs_sidebar #prefs_sidebar_theme::after {
@@ -4784,7 +4784,7 @@ body {
      background-color: #181920 !important;
 }
  .yolk_orange_bg, .burnt_violet_bg, .flexpane_grey_bg {
-     background-color: #424242 !important;
+     background-color: #181920 !important;
 }
  .sky_blue_bg, .clear_blue_bg, .seafoam_green_bg {
      background-color: #1B1C24 !important;
@@ -5044,10 +5044,10 @@ body {
      color: #21232D;
 }
  .admin_list_item .pill.group {
-     background: #424242;
+     background: #181920;
 }
  .admin_list_item .two_factor_auth_badge:hover {
-     background: #424242;
+     background: #181920;
 }
  .admin_list_item .inline_email:hover, .admin_list_item .inline_name:hover, .admin_list_item .inline_username:hover {
      background: none !important;
@@ -6325,7 +6325,7 @@ body {
      background-color: #181920;
 }
  nav .space_buttons .btn_outline {
-     background-color: #424242;
+     background-color: #181920;
 }
  nav .space_buttons .btn_outline::after {
      border-color: #1B1C24;
@@ -6427,7 +6427,7 @@ body {
      color: #21232D;
 }
  #space_alert .btn_outline.btn_transparent {
-     background-color: #424242 !important;
+     background-color: #181920 !important;
      color: #e6e6e6 !important;
 }
  #space_alert .btn_outline.btn_transparent::after {
@@ -6496,7 +6496,7 @@ body {
 }
  #shortcuts_spaces_dialog .col .keyboard {
      background-color: #828282;
-     border-bottom: 2px solid #424242;
+     border-bottom: 2px solid #181920;
      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
      color: #e6e6e6;
 }
@@ -6595,7 +6595,7 @@ body {
      border: 1px solid #1B1C24;
 }
  .para_menu .options a.active {
-     background-color: #424242;
+     background-color: #181920;
      border: 1px solid #181920;
 }
  .para_menu .options a.active span {
