@@ -1185,7 +1185,8 @@ body {
 }
  #team_menu {
      background: #181920;
-     border-bottom: 2px solid #181920;
+     border-bottom: none;
+     /* border-bottom: 2px solid #181920; */
      color: #959FB5;
 }
  #team_menu.active, #team_menu:hover {
