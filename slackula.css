@@ -595,7 +595,7 @@ body {
 }
  #msg_form #msg_input {
      background: padding-box #1B1C24;
-     border-color: #181920;
+     border-color: #181920 !important;
      border-left: 0;
      color: #e6e6e6;
 }
