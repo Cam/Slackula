@@ -5063,11 +5063,11 @@ body {
 }
  .admin_list_item.expanded .btn_outline {
      border-color: #21232D;
-     color: #e6e6e6 !important;
+     color: #313342 !important;
 }
  .admin_list_item.expanded .btn_outline:hover {
-     border-color: #181920;
-     color: #e6e6e6 !important;
+     border-color: #313342 !important;
+     color: #959FB5 !important;
 }
  .admin_list_item.expanded .sub_action {
      color: #21232D;
