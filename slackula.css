@@ -789,7 +789,7 @@ body {
      color: #959FB5;
 }
  .menu #menu_header .menu_simple_header a {
-     color: #21232D;
+     color: #393C4D;
 }
  .menu #menu_header .menu_simple_header a:hover {
      color: #c7c7c7;
@@ -799,7 +799,7 @@ body {
 }
  .menu .section_header .header_label {
      background-color: #181920;
-     color: #21232D;
+     color: #393C4D;
 }
  .menu .section_header > div.header_label_container {
      color: #21232D;
