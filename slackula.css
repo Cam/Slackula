@@ -10,13 +10,13 @@ body {
      color: #959FB5;
 }
  a {
-     color: #959FB5;
+     color: #F6F1E9;
 }
  a:link, a:visited {
-     color: #959FB5;
+     color: #F6F1E9;
 }
  a:hover, a:active, a:focus {
-     color: #c7c7c7;
+     color: #FFF;
 }
  hr {
      border-bottom: 1px solid #181920;
@@ -1906,7 +1906,7 @@ body {
      color: #21232D;
 }
  .c-message_attachment__footer {
-     color: #313342;
+     color: #9B9FB5;
 }
  .c-message_attachment__image, .c-message_attachment__thumb, .c-message_attachment__video_thumb {
      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1) inset;
