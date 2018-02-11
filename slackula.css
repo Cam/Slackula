@@ -3,10 +3,10 @@
 ######
 
 html {
-     background: #21232D !important;
+     background: #181920 !important;
 }
 body {
-     background: #21232D !important;
+     background: #181920 !important;
      color: #959FB5;
 }
  a {
@@ -3712,7 +3712,7 @@ body {
      border-color: #181920;
 }
  #reply_container .reply_broadcast_buttons_container .reply_broadcast_label_container, .reply_input_container .reply_broadcast_buttons_container .reply_broadcast_label_container {
-     color: #959FB5;
+     color: #21232D;
 }
  #reply_container .reply_broadcast_buttons_container .reply_broadcast_label_container ts-icon.ts_icon_question_circle, .reply_input_container .reply_broadcast_buttons_container .reply_broadcast_label_container ts-icon.ts_icon_question_circle {
      color: #21232D !important;
