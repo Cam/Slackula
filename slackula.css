@@ -1325,13 +1325,13 @@ body {
      overflow: hidden !important;
 }
  #edit_topic_trigger {
-     color: #21232D;
+     color: #9B9FB5;
 }
  .c-message_list__day_divider__label {
-     color: #21232D;
+     color: #9B9FB5;
 }
  .c-message_list__day_divider__label__pill {
-     background: #21232D;
+     background: #181920;
      position: relative;
 }
  .c-message_list__day_divider__line {
