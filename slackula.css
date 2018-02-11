@@ -697,15 +697,15 @@ body {
      border-color: #1B1C24;
 }
  .inline_message_input_container .ql-container.focus, .inline_message_input_container .ql-container:active, .inline_message_input_container .ql-container:hover {
-     border-color: #828282;
+     border-color: #1B1C24;
 }
  .c-message__editor__input {
      background: #1B1C24;
-     border-color: #181920;
+     border-color: #1B1C24;
      color: #959FB5;
 }
  .c-message__editor__input.focus {
-     border-color: #181920;
+     border-color: #1B1C24;
      box-shadow: 0 0 7px rgba(0, 0, 0, 0.15);
 }
  .c-message__editor__warning {
