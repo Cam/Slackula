@@ -449,7 +449,7 @@ body {
 }
  .btn_outline {
      background: #21232D;
-     color: #21232D !important;
+     color: #181920 !important;
 }
  .btn_outline::after {
      border: 1px solid #181920;
@@ -3772,6 +3772,9 @@ body {
 }
  .c-member--dark .c-member__current-status {
      color: #21232D;
+}
+.c-member .presence.active {
+  color: #01FFEB;
 }
  .c-member--dark .c-member__current-status::before {
      color: #21232D;
