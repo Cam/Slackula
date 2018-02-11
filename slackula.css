@@ -449,10 +449,10 @@ body {
 }
  .btn_outline {
      background: #21232D;
-     border-color: #9B9FB5;
+     border-color: #9B9FB5 !important;
      color: #9B9FB5 !important;
 }
- .btn_outline::after {
+ /* .btn_outline::after {
      border: 1px solid #181920;
 }
  .btn_outline.btn_transparent {
@@ -467,7 +467,7 @@ body {
 }
  .btn_outline.btn_transparent.active, .btn_outline.btn_transparent:active {
      background-color: rgba(84, 84, 84, 0.8) !important;
-}
+} */
  .btn_outline.hover, .btn_outline:focus, .btn_outline:hover {
      background: #21232D;
      border-color: #9B9FB5;
