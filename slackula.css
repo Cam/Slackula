@@ -449,7 +449,8 @@ body {
 }
  .btn_outline {
      background: #21232D;
-     color: #181920 !important;
+     border-color: #9B9FB5;
+     color: #9B9FB5 !important;
 }
  .btn_outline::after {
      border: 1px solid #181920;
