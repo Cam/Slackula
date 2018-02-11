@@ -3624,7 +3624,7 @@ body {
      color: #959FB5;
 }
  #member_preview_scroller .member_data_table a, #member_preview_web_container .member_data_table a, #team_list .member_data_table a, .menu_member_header .member_data_table a {
-     color: #21232D !important;
+     color: #9B9FB5 !important;
 }
  #member_preview_scroller .member_data_table a:hover, #member_preview_web_container .member_data_table a:hover, #team_list .member_data_table a:hover, .menu_member_header .member_data_table a:hover {
      color: #c7c7c7 !important;
