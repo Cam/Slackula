@@ -669,7 +669,7 @@ body {
      color: #959FB5;
 }
  #footer, #footer.footer_msg_input {
-     background: #21232D;
+     background: #181920;
      box-shadow: inset 1px 0 0 0 #21232D;
 }
  #footer.disabled #message-input, #footer.disabled #msg_input {
