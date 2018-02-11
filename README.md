@@ -18,5 +18,9 @@ document.addEventListener('DOMContentLoaded', function() {
    }
  });
 });
-To inspect Slack app to create/update styles, in terminal launchctl setenv SLACK_DEVELOPER_MENU true, then restart Slack app.
 ```
+
+## Creating new themes
+
+To inspect Slack app to create/update styles, in terminal launchctl setenv SLACK_DEVELOPER_MENU true, then restart Slack app.
+
