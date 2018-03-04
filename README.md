@@ -1,5 +1,5 @@
 # Slackula
-Slack Dark Mode
+Dark Mode for Slack on MacOS
 
 ## Installation
 
